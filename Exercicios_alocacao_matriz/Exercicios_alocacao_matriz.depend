@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1663632812 source:c:\users\108880.univali\exercicios_alocacao_matriz\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
