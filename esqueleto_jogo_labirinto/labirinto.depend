@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1664584212 source:c:\users\108880.univali\labirinto\main.cpp
+	<iostream>
+	<fstream>
+	<conio.h>
+	<windows.h>
+
